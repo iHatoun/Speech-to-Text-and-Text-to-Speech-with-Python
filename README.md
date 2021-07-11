@@ -1,1 +1,1 @@
-# Speech-to-Text-and-Text-to-Speech-with-Python
+# Speech to Text and Text to Speech with Python
